@@ -1,0 +1,6 @@
+book_id,title,author,tags
+b1,Data Science from Scratch,Joel Grus,data science;python;intro
+b2,Hands-On Machine Learning,Aurélien Géron,machine learning;python;practical
+b3,Deep Learning with Python,François Chollet,deep learning;keras;python
+b4,Python Crash Course,Eric Matthes,python;beginner;projects
+b5,Fluent Python,Luciano Ramalho,advanced;python;best practices

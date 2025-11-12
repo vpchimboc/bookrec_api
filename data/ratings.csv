@@ -1,0 +1,16 @@
+user_id,book_id,rating
+u1,b1,5
+u1,b2,4
+u1,b3,2
+u2,b1,4
+u2,b3,5
+u2,b4,3
+u3,b2,5
+u3,b3,3
+u3,b5,4
+u4,b1,2
+u4,b4,5
+u4,b5,3
+u5,b2,4
+u5,b3,4
+u5,b4,2
