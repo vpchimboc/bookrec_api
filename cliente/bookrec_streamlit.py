@@ -16,7 +16,7 @@ mode = st.sidebar.radio("Modo de uso", ["Usar API FastAPI", "Cargar artefactos l
 k = st.sidebar.slider("Cantidad de recomendaciones (k)", 1, 20, 5)
 
 if mode == "Usar API FastAPI":
-    base_url = st.sidebar.text_input("URL de la API", value="http://localhost:8000")
+    base_url = st.sidebar.text_input("URL de la API", value="https://bookrec-api-ja35.onrender.com")
 else:
     model_dir = st.sidebar.text_input("Carpeta de modelos", value="models")
     data_dir = st.sidebar.text_input("Carpeta de datos (para historial de usuario)", value="data")
